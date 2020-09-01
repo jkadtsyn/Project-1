@@ -1,0 +1,19 @@
+.button_down {
+    width: 130px;
+    padding: 5px;
+    padding-right: 5px;
+    float: left;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url('../img/custom_roads.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
